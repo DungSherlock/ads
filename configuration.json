@@ -22,7 +22,12 @@
     {
         "name": "Lightswitch05's ads-and-tracking-extended.txt",
         "source": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
-        "transformations": ["RemoveComments", "Compress"]
+        "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+        "name": "Lightswitch05's amp-hosts-extended.txt",
+        "source": "https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt",
+        "transformations": ["RemoveComments", "Compress", "Validate"]
     }
   ],
   "transformations": ["Deduplicate", "Compress"]
