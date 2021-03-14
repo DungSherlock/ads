@@ -1,0 +1,20 @@
+name: Hostlist Compiler
+on: workflow_dispatch
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - run: npm i -g @adguard/hostlist-compiler
+      - run: hostlist-compiler -c configuration.json -o om.ads
+
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+        github_token: ${{ secrets.GH_TOKEN }}
+        branch: master
+      
