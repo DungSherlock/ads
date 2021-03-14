@@ -12,9 +12,18 @@ jobs:
       - run: npm i -g @adguard/hostlist-compiler
       - run: hostlist-compiler -c configuration.json -o om.ads
 
-      - name: GitHub Push
-        uses: ad-m/github-push-action@v0.6.0
+#       - name: GitHub Push
+#         uses: ad-m/github-push-action@v0.6.0
+#         with:
+#           github_token: ${{ secrets.GH_TOKEN }}
+#           branch: master
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          branch: master
-      
+          personal_token: ${{ secrets.GH_TOKEN }}
+          external_repository: DungSherlock/ads
+          publish_dir: ./
+          keep_files: false
+          user_name: dungsherlock
+          user_email: dungsherlock@gmail.com
+          publish_branch: master
