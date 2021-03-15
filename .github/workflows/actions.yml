@@ -10,7 +10,7 @@ jobs:
           node-version: '14'
 
       - run: npm i -g @adguard/hostlist-compiler
-      - run: hostlist-compiler -c configuration.json -o om.ads
+      - run: hostlist-compiler -c configuration.json -o om
 
       - name: Commit files
         run: |
