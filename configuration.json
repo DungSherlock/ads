@@ -39,5 +39,5 @@
     }
   ],
   "transformations": ["Deduplicate", "Compress"],
-  "exclusions_sources": ["GoodbyeAds Youtube Adblock"]
+  "exclusions_sources": ["https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt"]
 }
