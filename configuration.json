@@ -24,9 +24,17 @@
         "source": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
         "transformations": ["RemoveComments", "Compress", "Validate"]
     },
+    {   "name": "GoodbyeAds",
+        "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt",
+        "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {   "name": "GoodbyeAds Youtube Adblock",
+        "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt",
+        "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
     {
-        "name": "Lightswitch05's amp-hosts-extended.txt",
-        "source": "https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt",
+        "name": "Stevenblack/host with the fakenews and gamebling extension",
+        "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts",
         "transformations": ["RemoveComments", "Compress", "Validate"]
     }
   ],
