@@ -3,7 +3,7 @@
 ! Description: Hostlist Compiler
 ! Homepage: https://dung.men/
 ! License: GPLv3
-! Last modified: 2021-03-15T11:05:28.918Z
+! Last modified: 2021-03-15T14:59:45.708Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -835,7 +835,6 @@
 ||adtol.com^
 ||feboni.info^
 ||cldom.com^
-||truesweb.com^
 ||iiprpq1bsedg.com^
 ||rotdubboy.com^
 ||m2track.co^
@@ -11054,6 +11053,7 @@ vkcdnservice.appspot.com^
 ||tructedpunis.fun^
 ||truernewlywait.com^
 ||truestioncarefore.site^
+||truesweb.com^
 ||trulytonic.com^
 ||trusted-click-host.com^
 ||trwbkkxk.com^
@@ -18468,6 +18468,7 @@ vkcdnservice.appspot.com^
 ||log.snssdk.com^
 ||visilabs.com^
 ||visilabs.net^
+||t.felmat.net^
 ||k-analytix.com^
 ||i.btg360.com.br^
 ||tracdelight.io^
@@ -24314,6 +24315,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||northstartravelmedia.com^
 ||ns8ds.com^
 ||nuloox.com^
+||nvidia.partners^
 ||nyltx.com^
 ||o-s.io^
 ||octomarket.com^
@@ -26128,7 +26130,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.f-tra.com^
 ||log.nordot.jp^
 ||ranking.apis.sankei-digital.co.jp^
-||t.felmat.net^
 ||torimochi.line-apps.com^
 ||tr.reco.combz.jp^
 ||track.thebase.in^
@@ -26209,6 +26210,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
 
+||ads.enrt.eu^
 ||19bk5lo5q2.com^
 ||videoo.tv^
 ||mtecso.online^
@@ -32470,6 +32472,10 @@ adbetnet.com
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 
+||uballcc.com^
+||52kp2.com^
+||dyx0878.cn^
+||xn--3bs795g.pub^
 ||zswinwin.xyz^
 ||vc370.com^
 ||5551193.com^
@@ -43815,7 +43821,6 @@ adbetnet.com
 ||adwoff.com^
 ||adwyze.com^
 ||crm.adxtrem.com^
-||pixel.adxtrem.com^
 ||www.adxtrem.com^
 ||adxyield.com^
 ||adzmath.com^
@@ -46350,21 +46355,6 @@ adbetnet.com
 ||glamfusionext.com^
 ||glassearch.com^
 ||glasswipe.com^
-||api.glaulb.com^
-||app.glaulb.com^
-||beta.glaulb.com^
-||debug.glaulb.com^
-||deploy.glaulb.com^
-||dev.glaulb.com^
-||develop.glaulb.com^
-||development.glaulb.com^
-||direct.glaulb.com^
-||m.glaulb.com^
-||new.glaulb.com^
-||stage.glaulb.com^
-||staging.glaulb.com^
-||stg.glaulb.com^
-||test.glaulb.com^
 ||gleglb.com^
 ||glennnbeck.com^
 ||glittermyway.com^
@@ -48656,7 +48646,8 @@ adbetnet.com
 ||plaaylist.com^
 ||place2use.com^
 ||placed.com^
-||placefordownload.com^
+||ww16.placefordownload.com^
+||ww25.placefordownload.com^
 ||placelocal.com^
 ||placeyourview.com^
 ||planetcorrina.com^
@@ -50711,8 +50702,8 @@ adbetnet.com
 ||whattheydonotwanttoknow.com^
 ||wheelrestaurantjimthorpe.com^
 ||whenruninginplace.com^
-||wherearethebestfile.com^
-||wherearethebestplaceforfilestodownload.com^
+||ww25.wherearethebestfile.com^
+||ww16.wherearethebestplaceforfilestodownload.com^
 ||whhitepages.com^
 ||whiirlpool.com^
 ||whisk.com^
@@ -51142,7 +51133,6 @@ adbetnet.com
 ||youtube2dvd.com^
 ||youtubebuddy.com^
 ||youtubeco.com^
-||youtubecreators.com^
 ||youtubeeee.com^
 ||youtubefreeporn.com^
 ||youtubegetmusicsoft.com^
@@ -51570,7 +51560,6 @@ adbetnet.com
 ||xn--4dbeir8a8b.co.il^
 ||xn--4dbfhld9h.co.il^
 ||xn--4dbk0ai5c.co.il^
-||xn--4dbsaaas6a2ce.co.il^
 ||xn--4dbsmb8c.co.il^
 ||xn--5dbedckege9k.co.il^
 ||xn--5dbfemf8f.co.il^
@@ -54169,7 +54158,6 @@ adbetnet.com
 ||wowsource.info^
 ||wspierajkulture.info^
 ||wtftds.info^
-||wurzen.info^
 ||wuyexuan.info^
 ||wwpc.info^
 ||wwwmuzik.info^
@@ -56652,7 +56640,8 @@ adbetnet.com
 ||nehra.org^
 ||neosante.org^
 ||netce.org^
-||networkspeedtest.org^
+||ww25.networkspeedtest.org^
+||www.networkspeedtest.org^
 ||newarkpreschool.org^
 ||newpct1.org^
 ||newtorr.org^
