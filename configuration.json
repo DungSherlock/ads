@@ -33,9 +33,10 @@
         "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
-        "name": "Stevenblack/host with the fakenews and gamebling extension",
+        "name": "StevenBlack/hosts with the fakenews and gambling extensions",
         "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts",
         "transformations": ["RemoveComments", "Compress", "Validate"]
+        "exclusions_sources": ["https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt"]
     }
   ],
   "transformations": ["Deduplicate", "Compress"]
