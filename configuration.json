@@ -34,6 +34,5 @@
         "transformations": ["RemoveComments", "Compress", "Validate"]
     }
   ],
-  "transformations": ["Deduplicate", "Compress"],
-  "exclusions_sources": ["https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt"]
+  "transformations": ["Deduplicate", "Compress"]
 }
