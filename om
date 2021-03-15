@@ -3,7 +3,7 @@
 ! Description: Hostlist Compiler
 ! Homepage: https://dung.men/
 ! License: GPLv3
-! Last modified: 2021-03-15T10:51:22.340Z
+! Last modified: 2021-03-15T11:05:28.918Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.10
 !
@@ -14835,6 +14835,7 @@ vkcdnservice.appspot.com^
 ||inktad.com^
 ||innity.com^
 ||innity.net^
+||innovid.com^
 ||insideall.com^
 ||insightexpress.com^
 ||insightexpressai.com^
@@ -18227,6 +18228,7 @@ vkcdnservice.appspot.com^
 ||ads.reward.rakuten.jp^
 ||ads.xlxtra.com^
 ||ads.yahoo.com^
+||ads.youtube.com^
 ||adsee.jp^
 ||adserver.goforandroid.com^
 ||adserver.kimia.es^
@@ -18305,6 +18307,7 @@ vkcdnservice.appspot.com^
 ||fyber.com^
 ||gigamega.su^
 ||go.mobstitial.com^
+||googleadservices.com^
 ||gsmtop.net^
 ||gts-ads.twistbox.com^
 ||heyzap.com^
@@ -23849,6 +23852,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trk.pinterest.com^
 ||tu.dxcnd.cn^
 ||ws.ksmobile.net^
+||www-google-analytics.l.google.com^
 ||xlmc.sec.miui.com^
 ||ymtracking.com^
 ||analy.qq.com^
@@ -37039,6 +37043,7 @@ adbetnet.com
 ||track.zalando.
 ||tracking.olx.
 ||adocean.cz^
+||doubleclick.net^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||vahufapave.com^
 ||cewegncr.com^
@@ -37099,6 +37104,9 @@ adbetnet.com
 @@||cs.silverpop.com^|
 @@||grp07.ias.rakuten.co.jp^|
 @@||cindyholbrook.lpages.co^|
+@@||pagead.l.doubleclick.net^|
+@@||www.googleadservices.com^|
+@@||googleadapis.l.google.com^|
 @@||my.tealiumiq.com^|
 @@||artifactory.appodeal.com^|
 @@||www.jdoqocy.com^|
@@ -38321,23 +38329,6 @@ adbetnet.com
 
 ||sdk.dotui.cn^
 
-||accounts.doubleclick.net^
-||ad-apac.doubleclick.net^
-||ad-emea.doubleclick.net^
-||ff.doubleclick.net^
-||adx.g.doubleclick.net^
-||bid.g.doubleclick.net^
-||cm.g.doubleclick.net^
-||survey.g.doubleclick.net^
-||g0.doubleclick.net^
-||g1.doubleclick.net^
-||g2.doubleclick.net^
-||g3.doubleclick.net^
-||gan.doubleclick.net^
-||ads-bid.l.doubleclick.net^
-||dart.l.doubleclick.net^
-||m.doubleclick.net^
-||s0.doubleclick.net^
 
 
 
@@ -38606,6 +38597,7 @@ adbetnet.com
 
 ||leanmobi.fusetracking.com^
 
+||fwmrm.net^
 
 
 ||cdn.g5e.com^
@@ -38711,6 +38703,7 @@ adbetnet.com
 ||crashlytics2.l.google.com^
 ||pagead-googlehosted.l.google.com^
 ||s0-2mdn-net.l.google.com^
+||www-googletagmanager.l.google.com^
 ||video-stats.video.google.com^
 
 ||adservice.google.com.tr^
@@ -38729,6 +38722,7 @@ adbetnet.com
 ||clientmetrics-pa.googleapis.com^
 
 
+||googletagmanager.com^
 
 ||googletagservices.com^
 
@@ -38970,17 +38964,6 @@ adbetnet.com
 
 ||prd.innopage.com^
 
-||ag.innovid.com^
-||rtr.innovid.com^
-||s-a.innovid.com^
-||s-cdn.innovid.com^
-||s-files.innovid.com^
-||s-static.innovid.com^
-||s-video.innovid.com^
-||service.innovid.com^
-||static.innovid.com^
-||video.innovid.com^
-||x.innovid.com^
 
 ||api.inrix.com^
 
@@ -46450,6 +46433,7 @@ adbetnet.com
 ||gooflr.com^
 ||googeal.com^
 ||fundingchoicesmessages.google.com^
+||googleadapis.l.google.com^
 ||gstaticadssl.l.google.com^
 ||marketingplatform.google.com^
 ||tagmanager.google.com^
@@ -50760,6 +50744,7 @@ adbetnet.com
 ||wisbenbae.com^
 ||ads.wish.com^
 ||wishrooms.com^
+||acquisition-tracker.wix.com^
 ||adsense.apps.wix.com^
 ||ding.wix.com^
 ||emailmarketingguide.wix.com^
@@ -54438,6 +54423,7 @@ adbetnet.com
 ||1bestrainet.net^
 ||1routerlogin.net^
 ||24pelis.net^
+||2mdn.net^
 ||302br.net^
 ||adserver.383media.net^
 ||7eer.net^
@@ -66847,6 +66833,7 @@ adbetnet.com
 ||analysis.tratao.com^
 ||analystic.org^
 ||analyti.uber.space^
+||analytic-google.com^
 ||analytic.337.com^
 ||analytic.ae.com^
 ||analytic.id.joylada.io^
@@ -161623,6 +161610,7 @@ adbetnet.com
 ||watchcopy.cc^
 ||watchdog-samsung.goodbyeads^
 ||watchdog.api.binance.com^
+||watchdog.goodbyeads^
 ||watchdog.goodbyeads.xiaomi^
 ||watchdog.ohio.gov^
 ||watchdogsdownload.com^
