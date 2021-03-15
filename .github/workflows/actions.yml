@@ -18,8 +18,9 @@ jobs:
           git config --local user.name "DungSherlock"
           git add -A .
           git commit -am "Add changes"
-      - name: GitHub Push
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          branch: master
+          git push
+  #    - name: GitHub Push
+  #      uses: ad-m/github-push-action@v0.6.0
+   #     with:
+     #     github_token: ${{ secrets.GH_TOKEN }}
+      #    branch: master
